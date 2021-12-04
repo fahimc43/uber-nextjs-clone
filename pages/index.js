@@ -12,7 +12,7 @@ export default function Home() {
           <UberLogo src="https://i.ibb.co/84stgjq/uber-technologies-new-20218114.jpg" />
           <Profile>
             <Name>Fahim Chowdhury</Name>
-            <UserImage src="https://scontent.fdac59-1.fna.fbcdn.net/v/t1.6435-9/124108561_4103189579697421_3170743220278090600_n.jpg?_nc_cat=109&ccb=1-5&_nc_sid=09cbfe&_nc_ohc=AYqx_Bh-NBQAX_uQz0-&_nc_oc=AQlPfA3pge9Odaj_lKIyt9zvOHvG8biLqLj65btyLx6_gPUayOyl7luKPKHZeO2thTs&_nc_ht=scontent.fdac59-1.fna&oh=a6fff522cc118ce342661b1500173268&oe=61BE73DC" />
+            <UserImage src="https://lh3.googleusercontent.com/ogw/ADea4I7SKgAVLP6zGXMmN17uLlZY5Z_XorSJ0d0chnO4ig=s83-c-mo" />
           </Profile>
         </Header>
         <ActionButtons>
